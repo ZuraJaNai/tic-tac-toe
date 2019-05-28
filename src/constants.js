@@ -1,0 +1,11 @@
+export const WIN = "WIN";
+export const TURN = "TURN";
+export const RESTART = "RESTART";
+export const P_ONE = "pOne";
+export const P_TWO = "pTwo";
+export const X_SIGN = "X";
+export const O_SIGN = "O";
+export const DRAW = "DRAW";
+export const EMPTY = "";
+export const PREV = "PREV";
+export const NEXT = "NEXT";
